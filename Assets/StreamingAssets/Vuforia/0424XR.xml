@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="1ee8cb07-d664-46ea-ab64-c509ed5dad29" size="0.080000 0.045006" />
+    <ImageTarget name="2112" size="0.060000 0.034644" />
+    <ImageTarget name="wave" size="0.060000 0.033750" />
+  </Tracking>
+</QCARConfig>
